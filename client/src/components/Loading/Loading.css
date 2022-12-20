@@ -1,0 +1,19 @@
+/* .box_loading {
+    background-image: url("../../styles/fondo\ login.avif");
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-size: cover;
+    display: table;
+    margin: 0;
+    top: 0;
+
+
+} */
+
+.box_loading img {
+    height: 180px;
+    width: 180px;
+    margin-top: 10%;
+    color: green;
+}
